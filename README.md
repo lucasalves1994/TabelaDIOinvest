@@ -1,2 +1,2 @@
 # TabelaDIOinvest
-Tabela do Curso DIO Excel
+Tabela do Curso Excel da Dio
